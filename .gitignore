@@ -1,0 +1,11 @@
+# contient les fichiers ignorés
+
+
+medias/img/Thumbs.db
+
+#fichiers de compilations
+build/*
+
+#fichier de projet secondaire Qt
+*.pro.user
+*.a866325
